@@ -1,3 +1,7 @@
+# Archived
+
+The active repository can now be found [here](https://github.com/practable/spinner-amax/)
+
 # Spinning disk remote lab PCB design
 
 ## Purpose
